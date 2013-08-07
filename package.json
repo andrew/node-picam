@@ -10,7 +10,7 @@
 	"keywords": ["raspistill", "camera", "raspberry", "pi"],
 	"main": "lib",
 	"repository": "git://github.com/hachr/node-picam.git",
-	"devDependencies": {
+	"dependencies": {
 		"lodash": "*"
 	},
 	"licenses": [
